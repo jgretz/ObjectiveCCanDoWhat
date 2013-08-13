@@ -10,6 +10,5 @@
 @interface Mixin : NSObject
 
 -(void) addDriveToClass: (Class) classType;
--(void) drive;
 
 @end
